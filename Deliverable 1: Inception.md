@@ -141,7 +141,7 @@ that would facilitate competitive play.
 **When:** 2/11/21
 **Consumer Segments:**  Dedicated strategy game player 
 
-**Summary:**  Usman started playing strategic games several years ago and expressed deep pain when It comes to assigning builders in clash of clans. “Sometimes, upgrading a clan requires 2-3 days and it may be timed for midnight. It is very frustrating to set up an alarm to make sure the builders are active” he said. He prefers a good design in the software but also functionality as well. He mentioned that hid PC is not very powerful so the software should run smoothly in low settings
+**Summary:**  Usman started playing strategic games several years ago and expressed deep pain when It comes to assigning builders in clash of clans. “Sometimes, upgrading a clan requires 2-3 days and it may be timed for midnight. It is very frustrating to set up an alarm to make sure the builders are active” he said. He prefers a good design in the software but also functionality as well. He mentioned that his PC is not very powerful so the software should run smoothly in low settings
 
 **Key Insights:**
 - Prefers a good design and functionality

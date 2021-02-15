@@ -216,6 +216,42 @@ that would facilitate competitive play.
 -	Check how much time they spend on the game(N)
 -	What the autoplayer does(D)
 
+### Interview 10: 
+***Interviewer:** TengAo 
+***Interviewee:** Miss  
+***When:** 2/10/21 
+***Consumer Segments:** A student who is currently in college 
+       **Summary:** Miss is a game girl that plays all kinds of games whatever on phones or PC. So she sometimes did not have enought energy to do well in all games. 
+       **Key Insights:** 
+   - Autoplayer can help player saving times, it will improve the efficiency of game time. 
+   - Make the game process more artificial and interesting. 
+       **Representative Quotes:** 
+   - "I really wanna do well in all games" 
+       **Assessment:** Must have (M), Nice to have (N), Don't care (D) 
+   - A effient tools that can save time for player(M) 
+   - game decision recommandation(N) 
+   - A good look for user interface(D) 
+ ## 4. Final Value Proposition and Consumer Segments  ## 4. Final Value Proposition and Consumer Segments 
+     ### Final Value Proposition:  ### Final Value Proposition: 
+ _Auto Player (working title)_ is a free program designed to free up time during games, so that you can be efficient in your daily life.  _Auto Player (working title)_" Efficient and Enjoyable." 
+ 
+### Interview 11: 
+***Interviewer:** TengAo 
+   **Interviewee:** Da Mu AoS 
+   **When:** 2/11/21\ 
+   **Consumer Segments:** newbee for COC 
+       **Summary:** He descripe why he like to play COC and he has a indeed need to have a autoplayer for game that he has not enough time to prevent the attack and improve level. 
+       **Key Insights:**  
+   - Less working on hand, more working in brain 
+   - Mutiple fuction include auto-level and auto-troop 
+       **Representative Quotes:** 
+   - "use more imagination to create infinite COC world" 
+       **Assessment:** Must have (M), Nice to have (N), Don't care (D)  
+   - Building level up (M) 
+   - Auto-troop(M) 
+   - Auto-Attack(M) 
+   - Saving time in process(M) 
+
 ## 4. Final Value Proposition and Consumer Segments
 
 ### Final Value Proposition:

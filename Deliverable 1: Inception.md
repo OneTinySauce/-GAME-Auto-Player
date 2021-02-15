@@ -237,7 +237,7 @@ that would facilitate competitive play.
 - A good look for user interface(D) 
 
 ### Interview 11: 
-***Interviewer:** TengAo \
+**Interviewer:** TengAo \
 **Interviewee:** Da Mu AoS \
 **When:** 2/11/21 \
 **Consumer Segments:** newbee for COC 

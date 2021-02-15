@@ -115,9 +115,9 @@ that would facilitate competitive play.
 
 ### Interview 5:
 
-***Interviewer:** Ulugbek Abdullayev
-***Interviewee:** Zyled Rodriguez
-***When:** 2/10/21
+***Interviewer:** Ulugbek Abdullayev\
+***Interviewee:** Zyled Rodriguez\
+***When:** 2/10/21\
 ***Consumer Segments:** Active Clash of Clans player
 
 **Summary:** Zyled used to play Clash of Clans actively in the past and she wanted to recover her village at level 70. “I do not want to go through the mundane activities like collecting resources and upgrading towers” she said. She doesn’t need the software to do everything for her but collecting resources every 5 minutes is ideal for her. She prefers a user-friendly interface.
@@ -136,9 +136,9 @@ that would facilitate competitive play.
 
 ### Interview 6:
 
-**Interviewer:** Ulugbek Abdullayev
-**Interviewee:** Usman Khakimi
-**When:** 2/11/21
+**Interviewer:** Ulugbek Abdullayev\
+**Interviewee:** Usman Khakimi\
+**When:** 2/11/21\
 **Consumer Segments:**  Dedicated strategy game player 
 
 **Summary:**  Usman started playing strategic games several years ago and expressed deep pain when It comes to assigning builders in clash of clans. “Sometimes, upgrading a clan requires 2-3 days and it may be timed for midnight. It is very frustrating to set up an alarm to make sure the builders are active” he said. He prefers a good design in the software but also functionality as well. He mentioned that hid PC is not very powerful so the software should run smoothly in low settings
@@ -179,9 +179,9 @@ that would facilitate competitive play.
 
 ### Interview 8:
 
-***Interviewer:** Junjian Yin
-***Interviewee:** Brittany
-***When:** 2/12/2021
+***Interviewer:** Junjian Yin\
+***Interviewee:** Brittany\
+***When:** 2/12/2021\
 ***Consumer Segments:** Like to play games that have content
 
 **Summary:** Brittany used to play phone game and she quit because she think most phone games have no content, in her view an auto player could be a tool to help her separate games with a lot of repetitive operations or not. She believe a good game should have less repetitive operations.
@@ -197,12 +197,12 @@ that would facilitate competitive play.
 
 ### Interview 9:
 
-***Interviewer:** Junjian Yin
-***Interviewee:** Miss (Her perfer not to say)
-***When:** 2/10/21
-***Consumer Segments:** A mother who want her children play less phone game
+***Interviewer:** Junjian Yin\
+***Interviewee:** Miss (Her perfer not to say)\
+***When:** 2/10/21\
+***Consumer Segments:** A mother who want her children play less phone games
 
-**Summary:** Miss doesn't play any phone games, but her children do. And she is wondering if the autoplayer can help her children spend less time on their screen. If we can show that is true so it helps us to border the customer range.
+**Summary:** Miss doesn't play any phone games, but her children do. She is wondering if the autoplayer can help her children spend less time on their screen. If we can show that is true so it helps us to border the customer range.
 
 **Key Insights:**
 -	Autoplayer can help player saving times, will it also help on reduce mobile games addicted
@@ -217,37 +217,45 @@ that would facilitate competitive play.
 -	What the autoplayer does(D)
 
 ### Interview 10: 
-***Interviewer:** TengAo 
-***Interviewee:** Miss  
-***When:** 2/10/21 
+***Interviewer:** TengAo\
+***Interviewee:** Miss\
+***When:** 2/10/21 \
 ***Consumer Segments:** A student who is currently in college 
-       **Summary:** Miss is a game girl that plays all kinds of games whatever on phones or PC. So she sometimes did not have enought energy to do well in all games. 
-       **Key Insights:** 
-   - Autoplayer can help player saving times, it will improve the efficiency of game time. 
-   - Make the game process more artificial and interesting. 
-       **Representative Quotes:** 
-   - "I really wanna do well in all games" 
-       **Assessment:** Must have (M), Nice to have (N), Don't care (D) 
-   - A effient tools that can save time for player(M) 
-   - game decision recommandation(N) 
-   - A good look for user interface(D) 
+
+**Summary:** Miss is a game girl that plays all kinds of games whatever on phones or PC. So she sometimes did not have enought energy to do well in all games.
+
+**Key Insights:** 
+- Autoplayer can help player saving times, it will improve the efficiency of game time. 
+- Make the game process more artificial and interesting. 
+ 
+**Representative Quotes:** 
+- "I really wanna do well in all games" 
+
+**Assessment:** Must have (M), Nice to have (N), Don't care (D) 
+- A effient tools that can save time for player(M) 
+- game decision recommandation(N) 
+- A good look for user interface(D) 
 
 ### Interview 11: 
-***Interviewer:** TengAo 
-   **Interviewee:** Da Mu AoS 
-   **When:** 2/11/21\ 
-   **Consumer Segments:** newbee for COC 
-       **Summary:** He descripe why he like to play COC and he has a indeed need to have a autoplayer for game that he has not enough time to prevent the attack and improve level. 
-       **Key Insights:**  
-   - Less working on hand, more working in brain 
-   - Mutiple fuction include auto-level and auto-troop 
-       **Representative Quotes:** 
-   - "use more imagination to create infinite COC world" 
-       **Assessment:** Must have (M), Nice to have (N), Don't care (D)  
-   - Building level up (M) 
-   - Auto-troop(M) 
-   - Auto-Attack(M) 
-   - Saving time in process(M) 
+***Interviewer:** TengAo \
+**Interviewee:** Da Mu AoS \
+**When:** 2/11/21\ 
+**Consumer Segments:** newbee for COC 
+
+**Summary:** He descripe why he like to play COC and he has a indeed need to have a autoplayer for game that he has not enough time to prevent the attack and improve level. 
+
+**Key Insights:**  
+- Less working on hand, more working in brain 
+- Mutiple fuction include auto-level and auto-troop 
+   
+**Representative Quotes:** 
+- "use more imagination to create infinite COC world" 
+   
+**Assessment:** Must have (M), Nice to have (N), Don't care (D)  
+- Building level up (M) 
+- Auto-troop(M) 
+- Auto-Attack(M) 
+- Saving time in process(M) 
 
  ## 4. Final Value Proposition and Consumer Segments  ## 4. Final Value Proposition and Consumer Segments 
      ### Final Value Proposition:  ### Final Value Proposition: 

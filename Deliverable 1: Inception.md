@@ -231,10 +231,7 @@ that would facilitate competitive play.
    - A effient tools that can save time for player(M) 
    - game decision recommandation(N) 
    - A good look for user interface(D) 
- ## 4. Final Value Proposition and Consumer Segments  ## 4. Final Value Proposition and Consumer Segments 
-     ### Final Value Proposition:  ### Final Value Proposition: 
- _Auto Player (working title)_ is a free program designed to free up time during games, so that you can be efficient in your daily life.  _Auto Player (working title)_" Efficient and Enjoyable." 
- 
+
 ### Interview 11: 
 ***Interviewer:** TengAo 
    **Interviewee:** Da Mu AoS 
@@ -251,6 +248,10 @@ that would facilitate competitive play.
    - Auto-troop(M) 
    - Auto-Attack(M) 
    - Saving time in process(M) 
+
+ ## 4. Final Value Proposition and Consumer Segments  ## 4. Final Value Proposition and Consumer Segments 
+     ### Final Value Proposition:  ### Final Value Proposition: 
+ _Auto Player (working title)_ is a free program designed to free up time during games, so that you can be efficient in your daily life.  _Auto Player (working title)_" Efficient and Enjoyable." 
 
 ## 4. Final Value Proposition and Consumer Segments
 

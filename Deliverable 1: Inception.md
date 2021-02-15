@@ -179,10 +179,10 @@ that would facilitate competitive play.
 
 ### Interview 8:
 
-***Interviewer:** Junjian Yin\
-***Interviewee:** Brittany\
-***When:** 2/12/2021\
-***Consumer Segments:** Like to play games that have content
+**Interviewer:** Junjian Yin\
+**Interviewee:** Brittany\
+**When:** 2/12/2021\
+**Consumer Segments:** Like to play games that have content
 
 **Summary:** Brittany used to play phone game and she quit because she think most phone games have no content, in her view an auto player could be a tool to help her separate games with a lot of repetitive operations or not. She believe a good game should have less repetitive operations.
 
@@ -197,10 +197,10 @@ that would facilitate competitive play.
 
 ### Interview 9:
 
-***Interviewer:** Junjian Yin\
-***Interviewee:** Miss (Her perfer not to say)\
-***When:** 2/10/21\
-***Consumer Segments:** A mother who want her children play less phone games
+**Interviewer:** Junjian Yin\
+**Interviewee:** Miss (Her perfer not to say)\
+**When:** 2/10/21\
+**Consumer Segments:** A mother who want her children play less phone games
 
 **Summary:** Miss doesn't play any phone games, but her children do. She is wondering if the autoplayer can help her children spend less time on their screen. If we can show that is true so it helps us to border the customer range.
 
@@ -217,10 +217,10 @@ that would facilitate competitive play.
 -	What the autoplayer does(D)
 
 ### Interview 10: 
-***Interviewer:** TengAo\
-***Interviewee:** Miss\
-***When:** 2/10/21 \
-***Consumer Segments:** A student who is currently in college 
+**Interviewer:** TengAo\
+**Interviewee:** Miss\
+**When:** 2/10/21 \
+**Consumer Segments:** A student who is currently in college 
 
 **Summary:** Miss is a game girl that plays all kinds of games whatever on phones or PC. So she sometimes did not have enought energy to do well in all games.
 
@@ -239,7 +239,7 @@ that would facilitate competitive play.
 ### Interview 11: 
 ***Interviewer:** TengAo \
 **Interviewee:** Da Mu AoS \
-**When:** 2/11/21\ 
+**When:** 2/11/21 \
 **Consumer Segments:** newbee for COC 
 
 **Summary:** He descripe why he like to play COC and he has a indeed need to have a autoplayer for game that he has not enough time to prevent the attack and improve level. 
@@ -256,10 +256,6 @@ that would facilitate competitive play.
 - Auto-troop(M) 
 - Auto-Attack(M) 
 - Saving time in process(M) 
-
- ## 4. Final Value Proposition and Consumer Segments  ## 4. Final Value Proposition and Consumer Segments 
-     ### Final Value Proposition:  ### Final Value Proposition: 
- _Auto Player (working title)_ is a free program designed to free up time during games, so that you can be efficient in your daily life.  _Auto Player (working title)_" Efficient and Enjoyable." 
 
 ## 4. Final Value Proposition and Consumer Segments
 

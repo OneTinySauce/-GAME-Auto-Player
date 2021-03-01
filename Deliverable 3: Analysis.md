@@ -9,3 +9,4 @@
 Clash of Clans Autoplayer will allow players to save time and minimize frustration. Our Autoplayer automates all of the boring parts of Clash of Clans so that you can free up your time to do other things. The system can train your troops, build/upgrade structures, collect your resources, and even take care of destroying rocks and trees for you. Clash of Clans Autoplayer saves you time and helps you enjoy playing the game even more.
 
 ## Model
+![Our UML Class Diagram](https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/UMLDiagram.jpg?raw=true)

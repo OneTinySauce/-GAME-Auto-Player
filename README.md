@@ -10,9 +10,13 @@ We've set out to create a Python program that automates some of the processes in
 
 Coming soon
 
+### Code of Conduct
+
+Please read [CODE_OF_CONDUCT.md](https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/CODE_OF_CONDUCT.md) before contributing to this project.
+
 ### Contributing
 
-Please read CONTRIBUTING.md for details on the process of submitting pull rerquests to us and our code of conduct
+Please read [CONTRIBUTING.md](https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/CONTRIBUTING.md) for details on the process of submitting pull rerquests to us.
 
 ### Versioning
 

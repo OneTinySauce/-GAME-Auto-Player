@@ -1,6 +1,6 @@
 # Contributing
 
-When contributing to this repository, please contact the owners before making a change, anmd follow our code of conduct, found here: [CODE_OF_CONDUCT.md]
+When contributing to this repository, please contact the owners before making a change, anmd follow our code of conduct, found here: [CODE_OF_CONDUCT.md](https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/CODE_OF_CONDUCT.md)
 
 ## Pull Request Process
 

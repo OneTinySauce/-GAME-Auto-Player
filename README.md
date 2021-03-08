@@ -2,6 +2,8 @@
 
 ## CS386 group 10 project
 
+### Current Version: 0.0.0
+
 We've set out to create a Python program that automates some of the processes in base building and resource management games, such as the mobile game Clash Of Clans, which will be the game we initially create this program for.
 
 ### Getting Started 

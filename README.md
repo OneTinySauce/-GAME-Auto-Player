@@ -20,7 +20,7 @@ Please read [CONTRIBUTING.md](https://github.com/OneTinySauce/Clash-Of-Clans-Aut
 
 ### Versioning
 
-Coming soon
+We are using [Semantic Vertsioning.](https://semver.org/) Please update the version using this system with any edits that are made.
 
 ### Authors
 

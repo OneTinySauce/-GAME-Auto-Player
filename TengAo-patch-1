@@ -1,0 +1,9 @@
+##Resouce collection
+import pyautogui
+
+location = pyautogui.locateOnScreen('Elixir.png')
+pyautogui.moveTo(location)
+pyautogui.click
+location = pyautogui.locateOnScreen('Gold.png')
+pyautogui.moveTo(location)
+pyautogui.click

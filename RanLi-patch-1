@@ -1,0 +1,9 @@
+##Collect gold and elixir
+import pyautogui
+
+def findClick(file):
+ pyautogui.moveTo(pyautogui.locateOnScreen(file))
+ pyautogui.click
+ 
+findClick('Resource_Gold.png')
+findClick('Resource_Elixir.png')

@@ -11,13 +11,18 @@ Trello: https://trello.com/b/y1373xdI/project-board
 
 ## 2. Implemented Requirements (Miles/Devin)
 
-## 3. Adopted Technologies (Miles/Devin)
+## 3. Adopted Technologies 
+
+We have adopted many different technologies for this project. We are using Python for our code and writing it using the Pycharm IDE, and writing the code to be used by the 
+PyAutoGUI program, that interprets our code for automating certain systems. We are testing our code using the mobile game Clash Of Clans, which we are runing on several different Android emulators to ensure that we write code that can run on as many systems as possible. We are using GitHub and Trello for collaboration purposes, as well as Docker and Amazon AWS to deploy our code.
 
 ## 4. Learning/Training
 
 We have learned the technology not only how to coding to solve the problem in real-world but how to work as a software engineering team. We connect and sharing ideas with each other on Discord and we using Trello and GitHub to keep track of our project. We learned to use those tools to help us improve efficiency as a team. Focus on the view as a team is the main strategy to learn those team-work tools. For the coding part, we using pyautogui library. We aim to reach the MVP and thinking to improve the user experience while coding. Generally, our strategy is to set the goal and think the base of the goal.
 
-## 5. Deployment (Devin)
+## 5. Deployment 
+
+We are in the process of deploying our system using Docker and Amazon AWS, and are hoping to complete this process soon.
 
 ## 6. Licensing 
 

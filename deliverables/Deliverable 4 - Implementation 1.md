@@ -22,7 +22,7 @@ We have learned the technology not only how to coding to solve the problem in re
 
 ## 5. Deployment 
 
-We are in the process of deploying our system using Docker and Amazon AWS, and are hoping to complete this process soon.
+We are in the process of deploying our system using Docker and Amazon AWS. We are attempting to create a Docker image for our program in order to deploy it, and we are following the tutorials to do this. We hope to have this process complete by our next release.
 
 ## 6. Licensing 
 

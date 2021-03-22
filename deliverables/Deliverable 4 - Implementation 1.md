@@ -39,7 +39,6 @@ Image Recognition / Image Gathering - Ulugbek, Ran, Teng, Junjian
 Program Startup - Ulugbek, Junjian
 Resource Collection System - Ulugbek, Junjian, Miles, Ran, Teng
 
-
 ## 3. Adopted Technologies 
 
 We have adopted many different technologies for this project. We are using Python for our code and writing it using the Pycharm IDE, and writing the code to be used by the 
@@ -62,7 +61,11 @@ We have adopted the MIT license because it is a short and simple license that in
 We have created a comprehensive ReadMe file that explains the purpose of our project and links to our guide to contributing as well as our code of conduct.
 
 ## 8. Look and Feel
+
 Our UI is a simple alert box system from pyAutoGUI. It allows the user to navigate a series of windows that allow them to select one of several options. This allows users to turn on and off certain functions of the system, exit, or set building queues, resources to collect, etc. When an option is selected, a new window appears, with the change implemented and, if necessary, moves to a new window.
+
+![App Launch UI](https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/screenshots/UI_intro.PNG?raw=true)
+![App Main Menu UI](https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/screenshots/UI_ActonMenu.PNG?raw=true)
 
 ## 9. Lessons Learned
 

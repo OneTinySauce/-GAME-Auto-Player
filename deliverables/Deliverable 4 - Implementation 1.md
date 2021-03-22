@@ -13,7 +13,9 @@ Trello: https://trello.com/b/y1373xdI/project-board
 
 ## 3. Adopted Technologies (Miles/Devin)
 
-## 4. Learning/Training (Junjian)
+## 4. Learning/Training
+
+We have learned the technology not only how to coding to solve the problem in real-world but how to work as a software engineering team. We connect and sharing ideas with each other on Discord and we using Trello and GitHub to keep track of our project. We learned to use those tools to help us improve efficiency as a team. Focus on the view as a team is the main strategy to learn those team-work tools. For the coding part, we using pyautogui library. We aim to reach the MVP and thinking to improve the user experience while coding. Generally, our strategy is to set the goal and think the base of the goal.
 
 ## 5. Deployment (Devin)
 

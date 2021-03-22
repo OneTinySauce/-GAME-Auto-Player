@@ -25,13 +25,14 @@ Main Flow:
 3. The player confirms
 4. The system asks the player what resources they wish to collect
 5. The player selects all types.\
+
 Alternative Flows:\
 3a. The player cancels\
 3b. The system closes\
 4a. The player selects coins only\
 4b. The system is set to collect coins only\
 4.1a. The player selects elixir only\
-4.1b. The system is set to collect elixir only\
+4.1b. The system is set to collect elixir only
 
 Features:
 UI Experimentation / Prototyping - Ulugbek, Junjian

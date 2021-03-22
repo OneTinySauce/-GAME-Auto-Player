@@ -27,6 +27,10 @@ We have created a comprehensive ReadMe file that explains the purpose of our pro
 
 ## 8. Look and Feel (Miles)
 
-## 9. Lessons Learned (Bek)
+## 9. Lessons Learned
 
-## 10. Demo (Bek)
+During MVP implementation, we have faced few challenges. First, a platform to run our code which is the Android emulator was challanging to find since most emulaters had third-part ads and pyautogui has image recognition problems when those ads present themselves. We have settle on Nox app player which has minimal ads and suser friendly interface. For the future release, we will try to work more on our GUI unser interface to make it more functional on player's perspective. We will also try to work on implementing some clan management tools like worker queues and trash removing in the base.
+
+## 10. Demo 
+
+Demo Video Link: https://youtu.be/BGOPTqpIFx0

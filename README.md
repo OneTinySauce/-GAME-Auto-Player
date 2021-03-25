@@ -24,7 +24,12 @@ We are using [Semantic Versioning.](https://semver.org/) Please update the versi
 
 ### Authors
 
-* **Devin O'Neal** - _Initial Work_ - [ALASKAWARRIORS](https://github.com/ALASKAWARRIORS)
+* **Devin O'Neal** - _Initial Work and Writing_ - [ALASKAWARRIORS](https://github.com/ALASKAWARRIORS)
+* **Miles Brown** - _Formatting and Writing_ - [Qweezl](https://github.com/Qweezl)
+* **Ulugbek Abdullayev** - _Coding, Demos and Writing_ - [Ulugbek Abdullayev](https://github.com/Ulugbek1024)
+* **Junjian Yin** - _Coding and Writing_ - [OneTinySauce](https://github.com/OneTinySauce)
+* **Ran Li** - _Coding and Writing_ - [ASL-r](https://github.com/ASL-r)
+* **Teng Ao** - _Coding_ - [OscarnotOskar](https://github.com/OscarnotOskar)
 
 ### License 
 

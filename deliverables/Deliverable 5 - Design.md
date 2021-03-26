@@ -12,6 +12,10 @@ The full system will have the ability to harvest resources, train troops, destro
 
 ## 2. Architecture
 
+![Our UML Package Diagram](https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/screenshots/Autoplayer%20Package%20Diagram.png?raw=true)
+
+Above is the UML Package Diagram for our system, which I designed close to the examples given because I was not sure how to create a package diagram for our system. I believe to make a more accurate package diagram, we will need to split our system into classes with some restructuring.
+
 ## 3. Class Diagram
 
 ## 4. Sequence Diagram

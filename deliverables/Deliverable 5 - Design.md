@@ -18,6 +18,8 @@ Above is the UML Package Diagram for our system, which I designed close to the e
 
 ## 3. Class Diagram
 
+![Our Class Diagram](https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/D5%20Class%20Diagram.PNG)
+
 ## 4. Sequence Diagram
 
 ## 5. Design Patterns

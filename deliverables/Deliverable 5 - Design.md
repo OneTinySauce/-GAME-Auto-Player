@@ -26,7 +26,20 @@ Above is the UML Package Diagram for our system, which I designed close to the e
 **Description:** The user wants to turn on the resource collection to collect resources automatically
 **Pre-Conditions:** 
 **Post-Conditions:** 
-**Main Flow & Alternative Flows** (shown with #.# format):  
+**Main Flow & Alternative Flows** (shown with #.# format):
+
+**Use Case:** Collect Resource
+**Actor:** Player
+**Description:** The user wants to turn on the resource collection to collect resources automatically
+**Pre-Conditions:** The user opened the auto-player correctly
+**Post-Conditions:** The program collect resources till the user hit exit
+**Main Flow & Alternative Flows** (shown with #.# format): 
+1.User opened the auto-player and see the GUI
+2.User clicked on collect resources
+ 2.1.Resource founded and collected
+ 2.2.Can't found the resources
+ 2.3.Resource founded but storge is full
+3.The program will run continusely till the user hit 'esc' on keyboard
 
 ## 5. Design Patterns
 

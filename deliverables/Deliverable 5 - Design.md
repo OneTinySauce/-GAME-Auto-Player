@@ -24,4 +24,10 @@ Above is the UML Package Diagram for our system, which I designed close to the e
 
 ## 5. Design Patterns
 
+Desing Pattern 1: (Structural) *Singleton* - method to add building to queues and to retrieve the queue
+
+![](https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/buildingQueue.PNG)
+
+Figure 5.1 - UML Diagram of the implementation of the Singleton patter in the BuildQueue class
+
 ## 6. Design Principles

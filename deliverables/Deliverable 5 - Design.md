@@ -26,7 +26,7 @@ Above is the UML Package Diagram for our system, which I designed close to the e
 **Description:** The user wants to turn on the resource collection to collect resources automatically
 **Pre-Conditions:** 
 **Post-Conditions:** 
-**Main Flow & Alternative Flows** (shown with #.# format): 
+**Main Flow & Alternative Flows** (shown with #.# format):  
 
 ## 5. Design Patterns
 

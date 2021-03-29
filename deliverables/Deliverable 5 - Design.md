@@ -21,6 +21,12 @@ Above is the UML Package Diagram for our system, which I designed close to the e
 ![Our Class Diagram](https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/D5%20Class%20Diagram.PNG)
 
 ## 4. Sequence Diagram
+**Use Case:** Collect Resource
+**Actor:** Player
+**Description:** The user wants to turn on the resource collection to collect resources automatically
+**Pre-Conditions:** 
+**Post-Conditions:** 
+**Main Flow & Alternative Flows** (shown with #.# format): 
 
 ## 5. Design Patterns
 

@@ -5,31 +5,38 @@ import ExlixirCollect
 import GameClass
 import PlayerClass
 
-from pymsgbox import alert, confirm
 class UIInit(UserInterFace.UI):
-    def __init__(self, class_a):
-        self.returnOpt1 = class_a.returnOpt1
-        self.returnOpt2 = class_a.returnOpt2
+    pass
 
-dev_1 = UserInterFace.UI()
+
+class CoinCollectInit(CoinCollect.CoinCollectClass):
+    pass
+
+class ExlixirCoolectInit(ExlixirCollect.ExlixirCollectClass):
+    pass
+
+class GameClassInit(GameClass.GamePlayClass):
+    pass
+class PlayerClassInit(PlayerClass.PlayerInitiateClass):
+    pass
 
 
 while True:
-       if dev_1.returnOpt1() == 'OK':
-           dev_1.WindowsClick()
-           dev_1.NoxSearch()
-           dev_1.GameButton()
-           enlargeScreen()
+       if UIInit.returnOpt1 == 'OK':
+           PlayerClassInit().WindowsClick()
+           PlayerClassInit().NoxSearch()
+           PlayerClassInit().GameButton()
+           GameClassInit().enlargeScreen()
        else:
            break
        while True:
-            if returnOpt2 == 'Collect Coin':
-                collectCoin()
-            elif returnOpt2 == 'Collect Elixir':
-                collectElixir()
+            if UIInit.returnOpt1 == 'Collect Coin':
+                CoinCollectInit().collectCoin()
+            elif UIInit.returnOpt2 == 'Collect Elixir':
+                ExlixirCoolectInit().collectElixir()
             else:
-                collectCoin()
-                collectElixir()
+                CoinCollectInit().collectCoin()
+                ExlixirCoolectInit().collectElixir()
 
 
 

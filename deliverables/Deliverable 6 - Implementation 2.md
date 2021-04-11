@@ -9,6 +9,7 @@
 ## 2. Implemented Requirements
 
 ## 3. Demo
+**Link to demo video:** https://youtu.be/E6WXAoOFr0M
 
 ## 4. Code Quality
 

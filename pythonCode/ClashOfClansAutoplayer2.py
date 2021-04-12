@@ -30,13 +30,16 @@ while True:
        else:
            break
        while True:
-            if UIInit.returnOpt1 == 'Collect Coin':
+            if UIInit.returnOpt2 == 'Collect Coin':
                 CoinCollectInit().collectCoin()
             elif UIInit.returnOpt2 == 'Collect Elixir':
                 ExlixirCoolectInit().collectElixir()
-            else:
+            elif UIInit.returnOpt2 == 'Collect All Resources':
                 CoinCollectInit().collectCoin()
                 ExlixirCoolectInit().collectElixir()
+            else:
+                BuildingUpgradeInit().TownHall()
+                BuildingUpgradeInit().GoldStorageUpgrade()
 
 
 

@@ -1,6 +1,9 @@
 import pyautogui, sys, time
 
+#Class for a building upgrade queue
 class UpgradeBuildings:
+    
+    #Function for upgrading a town hall
     def TownHall(self):
         buttonLocW1 = pyautogui.locateOnScreen('2_2_worker.png', confidence = 0.7)
         if buttonLocW1 != None:
@@ -27,6 +30,8 @@ class UpgradeBuildings:
                 self.TownHall()
         else:
             pass
+        
+    #Function for upgrading a gold storage
     def GoldStorageUpgrade(self):
         buttonLoc2 = pyautogui.locateOnScreen('goldStorage.png', confidence = 0.6)
         if buttonLoc2 != None:

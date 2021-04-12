@@ -33,15 +33,15 @@ Main Flow:
 1.Player opened the software\
 2.Player clicked on the upgrade buildings\
 3.The program start to check the any building is upgradeable\
-4.If so, upgrade now, if not, will check later\
+4.If so, upgrade now, if not, will check later
 
-Alternative Flows:\
+Alternative Flows:
   
 1.The player closed the program\
 2.The resources are not enough to upgrade the buildings\
-3.The buildings already in upgrade progress\
+3.The buildings already in upgrade progress
 
-Features:\
+Features:
   
 UI / Building’s upgrade - Ulugbek, Miles, Devin
 

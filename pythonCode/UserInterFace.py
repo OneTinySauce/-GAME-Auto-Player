@@ -6,4 +6,4 @@ class UI:
                          'You are about to ace this game! \n'
                         'Click OK to continue \n'
                        'Click Cancel to exit', title='ClashOfClans', buttons=['OK', 'Cancel'])
-        returnOpt2 = confirm(text='Click on one of the Options', title='Action', buttons=['Collect Coin', 'Collect Elixir', 'CollectAllResources'])
+        returnOpt2 = confirm(text='Click on one of the Options', title='Action', buttons=['Collect Coin', 'Collect Elixir', 'CollectAllResources', 'Upgrade Buildings'])

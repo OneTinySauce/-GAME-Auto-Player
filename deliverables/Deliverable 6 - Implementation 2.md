@@ -20,3 +20,4 @@
 ## 4. Code Quality
 
 ## 5. Lessons Learned
+During the development of this release, we learned how important it is to have modular code. A major part of this release was the refactoring of our existing code into seperate classes so that we could better manage our code and any bug fixes. This release saw our system really come together, because now we have multiple features that work in tandem with each other. The only thing that we would change is making this change earlier in development.

@@ -13,35 +13,35 @@ Trello Board: https://trello.com/b/y1373xdI/project-board
   
 GitHub: https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player
 ## 2. Implemented Requirements
-  Since we have implemented the MVP for this release we are focusing on the upgrade buildings automatically in the game.
-  ![](https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/screenshots/building_UI.png?raw=true)
+Since we have implemented the MVP for this release we are focusing on the upgrade buildings automatically in the game.
+![](https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/screenshots/building_UI.png?raw=true)
   
-  As this image shows the upgrade buildings is our new implementation, this function will upgrade the Town Hall and Gold Storage in the game, the user will able to develop their town with simple click.
+As this image shows, the upgrade buildings is our new implementation, this function will upgrade the Town Hall and Gold Storage in the game, the user will able to develop their town with simple click.
   
-  Use Case: Upgrade buildings
+Use Case: Upgrade buildings
   
-  Actor: Player
+Actor: Player
   
-  Description: The player wants to upgrade their buildings
+Description: The player wants to upgrade their buildings
   
-  Preconditions: The player has the game installed and starts the system 
+Preconditions: The player has the game installed and starts the system 
   
-  Post-conditions: The system set to automatically collect resources. 
+Post-conditions: The system set to automatically collect resources. 
   
-  Main Flow:
+Main Flow:
   
-  1.Player opened the software
-  2.Player clicked on the upgrade buildings
-  3.The program start to check the any building is upgradeable
-  4.If so, upgrade now, if not, will check later
+1.Player opened the software\
+2.Player clicked on the upgrade buildings\
+3.The program start to check the any building is upgradeable\
+4.If so, upgrade now, if not, will check later\
 
-  Alternative Flows:
+Alternative Flows:\
   
-  1.The player closed the program
-  2.The resources are not enough to upgrade the buildings
-  3.The buildings already in upgrade progress
+1.The player closed the program\
+2.The resources are not enough to upgrade the buildings\
+3.The buildings already in upgrade progress\
 
-  Features:
+Features:\
   
 UI / Building’s upgrade - Ulugbek, Miles, Devin
 
@@ -50,8 +50,6 @@ Testing - Junjian Yin, Ran, Teng
 Document Writing - Ulugbek, Miles, Devin, Junjian Yin, Ran, Teng
 
 Demo Video: Ulugbek
-
-  
 
 ## 3. Demo
 **Link to demo video:** https://youtu.be/E6WXAoOFr0M

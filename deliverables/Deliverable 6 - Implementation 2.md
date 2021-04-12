@@ -1,4 +1,4 @@
-# Analysis
+# Implementation 2
 
 **Group 10:** _Clash of Clans Auto Player_\
 **Date:** April 1st, 2021\

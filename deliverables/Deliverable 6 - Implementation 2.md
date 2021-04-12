@@ -19,7 +19,7 @@
 **Link to demo video:** https://youtu.be/E6WXAoOFr0M
 
 ## 4. Code Quality
-	In order to ensure high quality, we implemented several techniques on this release. Firstly, we separated our code from a single controller file to break it into several reusable code classes that allowed for far more modular code. Splitting code into separate files in this way can sometimes have issues in python, and we ran into some of these while separating our code into smaller chunks, but through some modification we were able to make our changes functional.
+In order to ensure high quality, we implemented several techniques on this release. Firstly, we separated our code from a single controller file to break it into several reusable code classes that allowed for far more modular code. Splitting code into separate files in this way can sometimes have issues in python, and we ran into some of these while separating our code into smaller chunks, but through some modification we were able to make our changes functional.
 	We changed our naming conventions of classes and functions to more accurately reflect the effects and actions they had, with some being changed when we split into classes and some being less accurately labeled in the initial release.
 	We also ran tests on several different devices between our group to find issues with compatibility, which found an issue with recognizing images between different computers.
 	Lastly we ran code oversight and clear up from other members of the group who were able to clear up and clarify code after the fact and add comments and spacing changes to document.

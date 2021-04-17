@@ -15,3 +15,28 @@
 ### 2.3 Acceptance Test
 
 ## 3. Validation
+**Script** 
+Clash of Clans autoplayer is designed to help you automate certain repetitive tasks so that you can improve your base constantly. By using our product, you are not going to ace this game guaranteed since autoplayer is a supplementary product for the game itself.
+In order to initiate the autoplayer, there are few tools you need to install to your system.
+NOX - android emulator (to install Clash of Clans game)
+PyCharm - in order to run the product
+
+Once you have installed the software given above which is available for free, you can run the autoplayer by typing in ClashOfClansAutoPlayer.py. The autoplayer will take over the cursor and the keyboard so it is recommended that you do not open external windows in your computer. 
+
+- Now you have tested out our product, what is your opinion on our choice of user interface?
+- How do you think our product will improve your gaming experience in Clash of Clans?
+- On a scale of 1 to 10, 1 being completely useless and 10 being above and beyond the expectations, how satisfied are you with our product?
+- Do you think there are any areas we could improve our product for future release?
+
+**Results**:<br>
+***User - 1:***
+This user just started playing clash of clans and used our product to see if there is any substantial improvement he can get. This user did not have any issues running the autoplayer and was overall satisfied with the features that were implemented. He was very satisfied with the user interface and the simplicity of the GUI. On a scale of 1 - 10, he said he would give 8 for the autoplayer. His suggestions were to improve the dynamic of building upgrading queue since there were limited options for that feature.<br>
+***User - 2:***
+This user has been playing Clash of Clans for a few years now and is very experienced in the game. She said that she really liked the user interface but said that it could be improved by adding the icons of the tasks users can choose. “Since my base is very highly upgraded and advanced, the app didn’t have much impact on the overall gameplay” she said. However, she mentioned that resource collection is a nifty feature to have in order to get more resources while not playing the game. On a scale of 1 - 10, she gave our autoplayer 7.<br>
+***User - 3:***
+This user has never played clash of clans and has little to no experience in the game. He tested out our autoplayer and was very enthusiastically excited for the fact that our product can do things without user input. He said he would give 10 on a scale of 1 - 10 for our product and thinks that we should think of making other products similar to our automation.
+
+**Reflections:**<br>
+	After the interviews we have done on users who have tested our product, we have seen few areas where we could improve our product. Most users mentioned that the product is hardware performance dependent and might lag behind when the user’s machine is slow. We have also noticed that our UI doesn’t give the users an option of exiting out of the autoplayer in runtime so we are thinking to implement an actual python GUI to improve our user interface.<br>
+	Resource collection feature of our autoplayer was one of the most appreciated features and all three test users were satisfied with it. Since the resource collection was the minimum value proposition, we have satisfied MVP in the eyes of all test users.<br>
+Overall, we have learned valuable lessons throughout the development of our product and it was a great experience.

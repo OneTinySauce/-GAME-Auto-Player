@@ -15,7 +15,7 @@
 ### 2.3 Acceptance Test
 
 ## 3. Validation
-**Script** 
+**Script:**\
 Clash of Clans autoplayer is designed to help you automate certain repetitive tasks so that you can improve your base constantly. By using our product, you are not going to ace this game guaranteed since autoplayer is a supplementary product for the game itself.
 In order to initiate the autoplayer, there are few tools you need to install to your system.
 NOX - android emulator (to install Clash of Clans game)
@@ -37,6 +37,7 @@ This user has been playing Clash of Clans for a few years now and is very experi
 This user has never played clash of clans and has little to no experience in the game. He tested out our autoplayer and was very enthusiastically excited for the fact that our product can do things without user input. He said he would give 10 on a scale of 1 - 10 for our product and thinks that we should think of making other products similar to our automation.
 
 **Reflections:**<br>
-	After the interviews we have done on users who have tested our product, we have seen few areas where we could improve our product. Most users mentioned that the product is hardware performance dependent and might lag behind when the user’s machine is slow. We have also noticed that our UI doesn’t give the users an option of exiting out of the autoplayer in runtime so we are thinking to implement an actual python GUI to improve our user interface.<br>
-	Resource collection feature of our autoplayer was one of the most appreciated features and all three test users were satisfied with it. Since the resource collection was the minimum value proposition, we have satisfied MVP in the eyes of all test users.<br>
+After the interviews we have done on users who have tested our product, we have seen few areas where we could improve our product. Most users mentioned that the product is hardware performance dependent and might lag behind when the user’s machine is slow. We have also noticed that our UI doesn’t give the users an option of exiting out of the autoplayer in runtime so we are thinking to implement an actual python GUI to improve our user interface.<br>
+
+Resource collection feature of our autoplayer was one of the most appreciated features and all three test users were satisfied with it. Since the resource collection was the minimum value proposition, we have satisfied MVP in the eyes of all test users.<br>
 Overall, we have learned valuable lessons throughout the development of our product and it was a great experience.

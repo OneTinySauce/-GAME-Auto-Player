@@ -2,13 +2,15 @@ import pyautogui, sys, time
 
 #Class for collecting 
 class ExlixirCollectClass:
-    
-    #Function for collecting elixir
     def collectElixir(self):
+        state = 'Failed'
         buttonLoc = pyautogui.locateOnScreen('Elixir.png', confidence = 0.7)
-        if buttonLoc != None:
-            buttonPoint = pyautogui.center(buttonLoc)
-            buttonX, buttonY = buttonPoint
-            pyautogui.click(buttonX, buttonY)
-        else:
-            self.collectElixir()
+        while state == 'Failed':
+            if buttonLoc != None:
+                buttonPoint = pyautogui.center(buttonLoc)
+                buttonX, buttonY = buttonPoint
+                pyautogui.click(buttonX, buttonY)
+            else:
+                self.collectElixir()
+            state = 'Passed'
+        return state

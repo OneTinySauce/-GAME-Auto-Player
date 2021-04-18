@@ -6,6 +6,10 @@
 
 ## 1. Description
 
+Clash of Clans Autoplayer allows players to save time and minimize frustration. Our Autoplayer automates all of the boring parts of Clash of Clans so that you can free up your time to do other things. The system can build/upgrade structures and collect your resources. Clash of Clans Autoplayer saves you time and helps you enjoy playing the game even more.
+
+This release of the system has the ability to harvest resources and build buildings from a queue. A simple UI runs alongside the Clash of Clans emulator to allow the user to change these things while playing. For Clash of Clans players who don’t enjoy the repetitive gameplay loops, or want to succeed in the game, the Clash of Clans Autoplayer helps you get through all the boring repetitive gameplay. Our product does not overwhelm your device with inappropriate ads and has a user friendly interface.
+
 ## 2. Verification
 
 ### 2.1 Unit Test

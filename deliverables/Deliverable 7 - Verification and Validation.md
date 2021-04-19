@@ -1,4 +1,4 @@
-# Implementation 2
+# Verification and Validation
 
 **Group 10:** _Clash of Clans Auto Player_\
 **Date:** April 16th, 2021\

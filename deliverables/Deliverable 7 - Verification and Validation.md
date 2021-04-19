@@ -28,6 +28,8 @@ This release of the system has the ability to harvest resources and build buildi
 
 ### 2.3 Acceptance Test
 
+We were unable to find an adequate framework for writing acceptance tests for Python code, however our Validation and our own experiences show that the user interface for our system is intuitive and works well for both new and veteran players of Clash of Clans.
+
 ## 3. Validation
 **Script:**\
 Clash of Clans autoplayer is designed to help you automate certain repetitive tasks so that you can improve your base constantly. By using our product, you are not going to ace this game guaranteed since autoplayer is a supplementary product for the game itself.

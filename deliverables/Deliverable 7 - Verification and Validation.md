@@ -24,7 +24,19 @@ This release of the system has the ability to harvest resources and build buildi
 ####   2.1.4 Print Screen showing the results of the unit test
 ![Our Sequence Diagram](https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/mscScreenShots/Capture.PNG)
 
-### 2.2 Integration Test
+### 2.2 Integration Test<br> 
+  We continue use pytest to test overall usability of our code\
+  **Link**: https://docs.pytest.org/en/6.2.x/
+####   2.2.2 Link to our GitHub folder where automated unit tests are located: <br>
+https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/pythonCode/IntegrationTest.py
+
+####   2.2.3 A test case that makes use of mock object:
+  We import all functions into the main, to test the overall usage we will test the core function that be constructed in the main.
+  **Link to the test:** https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/pythonCode/IntegrationTest.py <br>
+  **Link to the class being tested:** https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/blob/main/pythonCode/ClashOfClansAutoplayer2.py <br>
+  
+####   2.2.4 Print Screen showing the results of the unit test
+
 
 ### 2.3 Acceptance Test
 

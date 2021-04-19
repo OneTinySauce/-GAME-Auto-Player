@@ -14,7 +14,7 @@ This release of the system has the ability to harvest resources and build buildi
 
 ### 2.1 Unit Test
 ####   2.1.1 We have used pytest framework to develop our tests<br> 
-  The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries
+  The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries\
   **Link**: https://docs.pytest.org/en/6.2.x/
 ####   2.1.2 Link to our GitHub folder where automated unit tests are located: <br> https://github.com/OneTinySauce/Clash-Of-Clans-Auto-Player/tree/main/pythonCode/Unit-Tests
 ####   2.1.3 A test case that makes use of mock object:
